@@ -4,7 +4,9 @@ make the output of “find” being tree list. this can be used with all strings
 How to use
 
 ./p2t -fn xxx.txt > yyy.txt
+
 cat xxx.txt | ./p2t
+
 p2t < xxx.txt
 
 
